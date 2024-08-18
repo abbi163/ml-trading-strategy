@@ -1,0 +1,29 @@
+test/
+TODO.md
+venv
+data
+.secure
+# Ignore all Jupyter Notebook files
+*.ipynb
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+
+# Ignore logs
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
